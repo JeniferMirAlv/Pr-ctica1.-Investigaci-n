@@ -1,1 +1,1 @@
-# Pr-ctica1.-Investigaci-n
+# Practica1.-Investigacion
